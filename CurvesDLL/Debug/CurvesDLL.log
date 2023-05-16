@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  Circle.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Circle.h(5,41): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Circle"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Circle.h(5): message : см. объявление "Main::Circle"
+  dllmain.cpp
+  Ellipse.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Ellipse.h(5,42): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Ellipse"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Ellipse.h(5): message : см. объявление "Main::Ellipse"
+  Helix.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6,40): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Helix"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6): message : см. объявление "Main::Helix"
+  Helix.h
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6,40): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Helix"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6): message : см. объявление "Main::Helix"
+  Создание кода...
+  CurvesDLL.vcxproj -> C:\Users\eemee\source\repos\3D_Curves\Debug\CurvesDLL.dll

@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Circle.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Circle.h(5,41): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Circle"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Circle.h(5): message : см. объявление "Main::Circle"
+  dllmain.cpp
+  Ellipse.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Ellipse.h(5,42): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Ellipse"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Ellipse.h(5): message : см. объявление "Main::Ellipse"
+  Helix.cpp
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6,40): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Helix"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6): message : см. объявление "Main::Helix"
+  Helix.h
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6,40): warning C4275: class "Main::Curve", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "Main::Helix"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Curve.h(47): message : см. объявление "Main::Curve"
+C:\Users\eemee\source\repos\3D_Curves\CurvesDLL\Helix.h(6): message : см. объявление "Main::Helix"
+x64\Release\Helix.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека C:\Users\eemee\source\repos\3D_Curves\x64\Release\CurvesDLL.lib и объект C:\Users\eemee\source\repos\3D_Curves\x64\Release\CurvesDLL.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 119 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CurvesDLL.vcxproj -> C:\Users\eemee\source\repos\3D_Curves\x64\Release\CurvesDLL.dll
